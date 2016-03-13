@@ -1,0 +1,28 @@
+name: Jake Burdess
+favicon: null
+layout_spectrum: 0.9303894327022135
+typography_spectrum: 0.13353004911914468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7957959359046072
+  lightness: 0.15974593488499522
+  saturation: 0.40799775905907154
+  rhythmicContrast: 0.09467134508304298
+purpose: []
