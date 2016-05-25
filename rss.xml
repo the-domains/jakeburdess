@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jake Burdess]]></title>
         <description><![CDATA[Jake Burdess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jakeburdess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 09:37:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 09:40:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jakeburdess/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Landing Page]]></title>
-            <description><![CDATA[<p>Trying out The Grid</p>]]></description>
-            <link>undefinedlanding-page/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69d5e17a-b4aa-4691-b1a1-c4425cedad31.jpg">]]></description>
+            <link>https://thegrid.ai/jakeburdess/landing-page/index.html</link>
             <guid isPermaLink="false">26bb12d3-c987-49fa-a55e-00d3bd4daa04</guid>
-            <pubDate>Wed, 25 May 2016 09:37:12 GMT</pubDate>
+            <pubDate>Wed, 25 May 2016 09:40:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
